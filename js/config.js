@@ -1,9 +1,9 @@
 export const CONFIG = {
-    // Resolucion del juego a 720p
-    ANCHO_PANTALLA : 1280,
-    ALTO_PANTALLA : 720,
-    SUELO : 570,            // Posiciion de suelo
+    // Resolución del juego a 720p
+    ANCHO: 1280,
+    ALTO: 720,
+    SUELO: 640,  // posicion del suelo
     GRAVEDAD: 2200,
-    VELOCIDAD: 300,
-    VELOCIDAD_DE_SALTO: -850
+    VELOCIDAD_DE_SALTO: -850,
+    VELOCIDAD_BASE: 300
 }
